@@ -1,4 +1,6 @@
-## Hi there 👋
+## HI, I'M ARNDT WEINRICH
+
+I am an Assistant Professor of Accounting at the Rotterdam School of Management, Erasmus University.  
 
 <!--
 **arndtupb/arndtupb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
