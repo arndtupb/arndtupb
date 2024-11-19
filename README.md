@@ -1,6 +1,8 @@
 ## HI, I'M ARNDT WEINRICH
 
-I am an Assistant Professor of Accounting at the Rotterdam School of Management, Erasmus University.  
+I am an Assistant Professor of Accounting at the Rotterdam School of Management, Erasmus University.
+
+Use this site to explore coding resources that I employ in research and teaching. Feel free to drop by [arndtweinrich.net](https://www.arndtweinrich.net) and to reach out.
 
 <!--
 **arndtupb/arndtupb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
